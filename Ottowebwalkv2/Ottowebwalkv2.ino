@@ -1,8 +1,10 @@
-#include <ESP32Servo.h>
-#include <analogWrite.h>
-#include <ESP32Tone.h>
-#include <ESP32PWM.h>
-#include <Otto.h>
+
+// Download and Include the below libraries commented 
+//#include<ESP32Servo.h>
+//#include "ESP32Tone.h"
+//#include "ESP32PWM.h"
+
+#include "Otto.h"
 #include <WiFi.h>
 Otto Otto;  //This is Otto!
 
